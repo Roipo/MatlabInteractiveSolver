@@ -1,0 +1,1 @@
+A template for an interactive, asynchronous solver with GUI in Matlab. It uses EasyGUI "[EasyGUI](https://ch.mathworks.com/matlabcentral/fileexchange/66728-easygui)", with tiny modifications to generate the menu.
